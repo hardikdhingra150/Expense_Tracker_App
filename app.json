@@ -22,7 +22,9 @@
       "bundleIdentifier": "com.yourname.expensetracker"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-web-browser",
+      "expo-secure-store"
     ],
     "extra": {
       "router": {},
